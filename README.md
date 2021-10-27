@@ -29,16 +29,15 @@ I am student in [@codingburgas](https://github.com/codingburgas) 🎓, who is cu
   <img src="https://github.com/ABFotev20/abfotev20/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
 </details>
 
-<summary><b>📚 Badges</b></summary>
+<details>
+  <summary><b>📚 Badges</b></summary>
   <!--START_SECTION:badges-->
+  
 [![MTA: Introduction to Programming Using HTML and CSS - Certified 2021](https://images.credly.com/size/110x110/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png)](http://www.credly.com/badges/50443da3-91dc-4cda-b602-2a9db3d76249 "MTA: Introduction to Programming Using HTML and CSS - Certified 2021")
 [![Microsoft Word (Office 2016)](https://images.credly.com/size/110x110/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png)](http://www.credly.com/badges/e6d36159-6402-4420-ac42-45407b356dda "Microsoft Word (Office 2016)")
+)
 <!--END_SECTION:badges-->
-</details>   
-<details>	
-  <summary><b>🎵 Spotify things</b></summary>
-  ![Spotify](https://novatorem-green-omega.vercel.app/api/spotify)
 </details>
+
 <div align="center">
-### Foucus: Talk is cheap ❤️ Show me the code!
 </div>
