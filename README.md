@@ -6,6 +6,7 @@
 ## Talking about Personal Stuffs:
 
 - 🚀 &nbsp; I’m currently learning HTML5 & CSS3 and C++ .
+- 👾 &nbsp; Fun fact: 
 - 📫 &nbsp; How to reach me: abfotev20@codingburgas.bg
 
 <hr>
