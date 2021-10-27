@@ -24,10 +24,6 @@ I am student in [@codingburgas](https://github.com/codingburgas) 🎓, who is cu
 
 
 ### Projects and Dev Stuffs:
-<details>
-  <summary><b>🐍 Contribution Graph</b></summary>
-  <img src="https://github.com/ABFotev20/abfotev20/blob/output/github-contribution-grid-snake.gif" alt="snake gif">
-</details>
 
 <details>
   <summary><b>📚 Badges</b></summary>
