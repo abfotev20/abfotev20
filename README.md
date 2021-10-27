@@ -35,7 +35,6 @@ I am student in [@codingburgas](https://github.com/codingburgas) 🎓, who is cu
   <summary><b>🎵 Spotify things</b></summary>
   ![Spotify](https://novatorem-green-omega.vercel.app/api/spotify)
 </details>
-#
 <div align="center">
-### Talk is cheap ❤️ Show me the code!
+### Foucus: Talk is cheap ❤️ Show me the code!
 </div>
